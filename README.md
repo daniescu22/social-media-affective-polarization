@@ -129,7 +129,7 @@ The analyses were conducted using the TriPol España survey. Users interested in
 **Daniela Escudero Fernández**
 
 LinkedIn:
-www.linkedin.com/in/daniela-escudero-fernández-4a09b3375
+www.linkedin.com/in/daniela-escudero-fernandez-4a09b3375
 
 GitHub:
 github.com/daniescu22
