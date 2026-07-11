@@ -1,5 +1,8 @@
 # Social Media Use and Affective Polarization Among Young Spanish Adults: A Panel Data Analysis
 
+> This report is an English research summary of my Bachelor's Thesis.  
+> The complete thesis, written in Spanish, is available in the `docs` folder.
+
 ## Abstract
 
 This report examines whether informational social media use is associated with affective polarization (AP) among young Spanish adults (18–35), and whether that relationship is moderated by ideological position and sex. The analysis draws on the Spanish subsample of the TriPol panel survey (N = 1,289 at Wave 1; n = 300 young adults), collected across three waves between 2021 and 2023. Affective polarization is measured with the WAPD index (Weighted Affective Party Distance), which captures the net affective distance between a respondent's preferred party and the remaining parties in a multiparty system. The empirical strategy combines cross-sectional OLS regression, a Cross-Lagged Panel Design (CLPD) linking Wave 1 predictors to Wave 3 outcomes, interaction models, and a set of robustness checks (heteroscedasticity-consistent errors, non-linearity tests, attrition correction via inverse probability weighting, and a Chow test comparing the young subsample against an older reference group).
