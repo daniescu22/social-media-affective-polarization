@@ -122,6 +122,11 @@ README.md                Project documentation
 figures/                 Selected figures
 ```
 
+- [English research report](Research_Report.md)
+- [Full Bachelor's Thesis in Spanish](docs/Bachelor_Thesis_Social_Media_Affective_Polarization.pdf)
+- [R analysis script](analysis.R)
+- [Selected figures](figures/)
+
 ---
 
 ## Data availability
