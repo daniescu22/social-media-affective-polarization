@@ -22,6 +22,14 @@ The project investigates the relationship between informational social media use
 
 ---
 
+## Full thesis
+
+The complete Bachelor's Thesis is available here:
+
+[Download or view the full thesis](docs/Bachelor_Thesis_Social_Media_Affective_Polarization.pdf)
+
+---
+
 ## Tools
 
 - R
